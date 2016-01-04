@@ -1,5 +1,6 @@
 # GitHub初始設定    
-***   
+
+   
   ## 1. Download the GitHup Application on your Desktop
 
   - 進入[GitHub Desktop Web](https://desktop.github.com/) 並點擊 **Download GitHub Desktop** 來下載 Github application 
