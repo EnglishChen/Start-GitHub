@@ -1,7 +1,8 @@
 # GitHub初始設定    
 =======================
+***  
 
-  ## 1. Applied an Account    
+## 1. Applied an Account    
      
   - 進入[GitHub的 WebSite](https://github.com/) 來去註冊一個帳號
     ![Sign Up](/img/signup.jpg)  
@@ -20,7 +21,7 @@
     ### 設定完後，我們開始創立新的Repository吧!
 ***  
   
-  ## 2. Download the GitHub Application on your Desktop   
+## 2. Download the GitHub Application on your Desktop   
 
 - 進入[GitHub Desktop Web](https://desktop.github.com/) 並點擊 **Download GitHub Desktop** 來下載 Github application 
   ![Download](/img/downloadGitHub.jpg)  
@@ -29,7 +30,7 @@
   並輸入您的GitHub帳號、密碼，及欲建立之相對位置
 *** 
 
-  ## 3. Create New Respository and Commit
+## 3. Create New Respository and Commit
 
   - **Repository**  
     你可以把它想像成美術館的畫框，當藝術家想把自己的畫作供人欣賞時，就必須將個人畫作放入畫框內，將畫框固定於牆上，並在其畫框旁註記畫作名稱、內容介紹和作者。 (你總不會看到美術館有人把畫直接丟在地上，不用框裱起來，也不在旁邊注註記任何資訊吧...)   
