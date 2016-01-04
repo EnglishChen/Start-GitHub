@@ -1,17 +1,7 @@
 # GitHub初始設定    
 =======================
 
-  
-  ## 1. Download the GitHub Application on your Desktop   
-
-- 進入[GitHub Desktop Web](https://desktop.github.com/) 並點擊 **Download GitHub Desktop** 來下載 Github application 
-  ![Download](/img/downloadGitHub.jpg)  
-
-- 安裝此 Application 於您的桌面上
-  並請牢記此資料夾的路徑 
-***   
-
-  ## 2. Applied an Account    
+  ## 1. Applied an Account    
      
   - 進入[GitHub的 WebSite](https://github.com/) 來去註冊一個帳號
     ![Sign Up](/img/signup.jpg)  
@@ -29,6 +19,15 @@
 
     ### 設定完後，我們開始創立新的Repository吧!
 ***  
+  
+  ## 2. Download the GitHub Application on your Desktop   
+
+- 進入[GitHub Desktop Web](https://desktop.github.com/) 並點擊 **Download GitHub Desktop** 來下載 Github application 
+  ![Download](/img/downloadGitHub.jpg)  
+
+- 安裝此 Application 於您的桌面上
+  並輸入您的GitHub帳號、密碼，及欲建立之相對位置
+*** 
 
   ## 3. Create New Respository and Commit
 
