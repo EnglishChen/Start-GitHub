@@ -1,4 +1,4 @@
-# GitHub初始設定  
+# GitHub初始設定    
 
   ## 1. Download the GitHup Application on your Desktop
 
