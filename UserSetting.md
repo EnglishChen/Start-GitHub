@@ -1,14 +1,14 @@
 # GitHub初始設定    
 =======================
 
-   
-  ## 1. Download the GitHup Application on your Desktop
+  
+  ## 1. Download the GitHub Application on your Desktop   
 
-  - 進入[GitHub Desktop Web](https://desktop.github.com/) 並點擊 **Download GitHub Desktop** 來下載 Github application 
-    ![Download](/img/downloadGitHub.jpg)  
+- 進入[GitHub Desktop Web](https://desktop.github.com/) 並點擊 **Download GitHub Desktop** 來下載 Github application 
+  ![Download](/img/downloadGitHub.jpg)  
 
-  - 安裝此 Application 於您的桌面上
-    並請牢記此資料夾的路徑 
+- 安裝此 Application 於您的桌面上
+  並請牢記此資料夾的路徑 
 ***   
 
   ## 2. Applied an Account    
